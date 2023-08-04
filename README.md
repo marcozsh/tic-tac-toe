@@ -1,4 +1,4 @@
-<div style="display:grid;place-content:center;">
+<div align="center">
 
 # Proyecto Tic Tac Toe
 
